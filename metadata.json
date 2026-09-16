@@ -1,0 +1,6 @@
+{
+  "name": "Poultry Farm Record",
+  "description": "Biraj Khan Poultry Farm Record - 100% Offline Lifelong Safe Storage for flock batches, daily logs, mortality tracking, feed stock balance, and register book.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
